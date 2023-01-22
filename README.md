@@ -7,7 +7,7 @@ You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/pra
 - [SQL](#sql)
 - [R](#r)
 - [Python](#python)
-- [Data Visualisation](#data-visualisation)
+- [Data Visualisation (Tableau, Power BI)](#data-visualisation)
 
 # SQL
 
