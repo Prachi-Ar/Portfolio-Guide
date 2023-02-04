@@ -7,21 +7,27 @@ You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/pra
 - [SQL](#sql)
 - [R](#r)
 - [Python](#python)
-- [Data Visualisation (Tableau, Power BI)](#data-visualisation)
+- [Data Visualisation (R, Tableau, Power BI)](#data-visualisation)
 
 # SQL
 
 **Level**: Intermediate
 
-| Project Name | Description | SQL Functions |
-|---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| Project Name | Description | 
+|---|---|
+| 🍝 [Danny's Diner- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse the spending habits, visiting patterns and best-selling menu items for a diner and the benefits to expanding their loyalty program. | 
+| 🍕 [Pizza Runner- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse the pick-up and delivery times for "runners" who deliver pizza to customers, the number of successful deliveries, menu preferences and customer ratings. | 
+| 🥑 [Foodie-Fi- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Analysing subscription sign-up and churn rates for a "Netflix for food recipes" streaming service | 
 
 # R
 
+**Level**: Advanced
+
 | Project Name | Area | Description | Packages |   
 |---|---|---|---|
-| ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. _(It's more interesting than the summary sounds, I promise!)_ |  _pandas, matplotlib_ |   
+| 📢 [Political Ads on Facebook](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data ingestion, cleaning, wrangling and visualisation | Combined data from the Meta Ad Library API and the Australian Electoral Commission to study expenditure 27,000+ political social media ads by electorate, party and candidate |  dplyr, RAdLibrary, ggplot2 | 
+
+Also check out my **ggplot** projects under [Data Visualisation](#data-visualisation)!
 
 # Python
 
