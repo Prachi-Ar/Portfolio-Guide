@@ -25,7 +25,7 @@ You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/pra
 
 | Project Name | Area | Description | Packages |   
 |---|---|---|---|
-| 📢 [Political Ads on Facebook](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data ingestion, cleaning, wrangling and visualisation | Combined data from the Meta Ad Library API and the Australian Electoral Commission to study expenditure 27,000+ political social media ads by electorate, party and candidate |  dplyr, RAdLibrary, ggplot2 | 
+| 📢 [Political Ads on Facebook](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data ingestion, cleaning, wrangling and visualisation | Combined data from the Meta Ad Library API and the Australian Electoral Commission to study expenditure 27,000+ political social media ads by electorate, party and candidate |  _dplyr, RAdLibrary, ggplot2_ | 
 
 Also check out my **ggplot** projects under [Data Visualisation](#data-visualisation)!
 
@@ -33,7 +33,7 @@ Also check out my **ggplot** projects under [Data Visualisation](#data-visualisa
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _pandas, matplotlib_ |   
+| 📺 [Scraping news headlines](https://github.com/Prachi-Ar/TOI-Headlines) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _BeautifulSoup, Pandas_ |   
 
 # Data Visualisation
 
