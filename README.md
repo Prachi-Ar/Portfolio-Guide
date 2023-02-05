@@ -1,5 +1,5 @@
 # 🗺 Portfolio-Guide
-This is a guide to all my data analysis projects- SQL, Python, R, Tableau and Power BI. 
+This is a guide to all my data analysis and visualisation projects- SQL, Python and R.. 
 
 You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/prachi-arya-37aa29136/).
 
