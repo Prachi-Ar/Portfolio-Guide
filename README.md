@@ -25,7 +25,7 @@ You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/pra
 
 | Project Name | Area | Description | Packages |   
 |---|---|---|---|
-| 📢 [Political Ads on Facebook](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data ingestion, cleaning, wrangling and visualisation | I combined data from the Meta Ad Library API and the Australian Electoral Commission to study expenditure 27,000+ political social media ads by electorate, party and candidate |  _dplyr, RAdLibrary, ggplot2_ | 
+| 📢 [Political Ads on Facebook](https://github.com/Prachi-Ar/Facebook-Ads) | Data ingestion, cleaning, wrangling and visualisation | I combined data from the Meta Ad Library API and the Australian Electoral Commission to study expenditure 27,000+ political social media ads by electorate, party and candidate |  _dplyr, RAdLibrary, ggplot2_ | 
 
 Also check out my **ggplot** projects under [Data Visualisation](#data-visualisation)!
 
@@ -39,5 +39,5 @@ Also check out my **ggplot** projects under [Data Visualisation](#data-visualisa
 
 | Project Name | Software/program | Description | Graphic |
 |---|---|---|---|
-| 🎓 [The Oxbridge Gender Pay Gap](https://github.com/Prachi-Ar/TidyTuesday/edit/main/README.md#week-26-2022-the-gender-pay-gap-at-the-universities-of-cambridge-and-oxford) | R (gglot) | A project close to 🏡 home. I look at the proportion of men and women who make up the lowest and highest salary quartiles at Cambridge and Oxbridge. Unsurprisibgly, women are overepresented in the lowest quartile, while men are dominate the highest quartile | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
-| 📺 [Most popular Netflix Shows](https://github.com/Prachi-Ar/TidyTuesday/edit/main/README.md#week-30-2022-top-10-trending-netflix-shows-across-countries) | R (ggplot) | I analyse how long various shows trended in the top 10 across different countries. Spoiler: Squid Game emerged as the undisputed winner🪆 | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 🎓 [The Oxbridge Gender Pay Gap](https://github.com/Prachi-Ar/TidyTuesday#week-26-2022-the-gender-pay-gap-at-the-universities-of-cambridge-and-oxford) | R (gglot) | I look at the proportion of men and women who make up the lowest and highest salary quartiles at Cambridge and Oxford. Unsurprisibgly, women are overepresented in the lowest quartile, while men dominate the top quartile| [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 📺 [Most popular Netflix Shows](https://github.com/Prachi-Ar/TidyTuesday#week-30-2022-top-10-trending-netflix-shows-across-countries) | R (ggplot) | I analyse how long various shows trended in the top 10 across different countries. Spoiler: Squid Game emerged as the undisputed winner🪆 | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
