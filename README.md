@@ -15,9 +15,9 @@ You can connect with me on my [LinkedIn profile](https://www.linkedin.com/in/pra
 
 | Project Name | Description | 
 |---|---|
-| 🍝 [Danny's Diner- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse the spending habits, visiting patterns and best-selling menu items for a diner and the benefits to expanding their loyalty program. | 
-| 🍕 [Pizza Runner- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse the pick-up and delivery times for "runners" who deliver pizza to customers, the number of successful deliveries, menu preferences and customer ratings. | 
-| 🥑 [Foodie-Fi- 8 Week SQL Challenge](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | Analysing subscription sign-up and churn rates for a "Netflix for food recipes" streaming service | 
+| 🍝 [Danny's Diner- 8 Week SQL Challenge](https://github.com/Prachi-Ar/8-Week-SQL-Challenge#-problem-1-dannys-diner) | I analyse the spending habits, visiting patterns and best-selling menu items for a diner and the benefits to expanding their loyalty program. | 
+| 🍕 [Pizza Runner- 8 Week SQL Challenge](https://github.com/Prachi-Ar/8-Week-SQL-Challenge#-problem-2-pizza-runner) | I analyse the pick-up and delivery times for "runners" who deliver pizza to customers, the number of successful deliveries, menu preferences and customer ratings. | 
+| 🥑 [Foodie-Fi- 8 Week SQL Challenge](https://github.com/Prachi-Ar/8-Week-SQL-Challenge#-problem-2-pizza-runner) | Analysing subscription sign-up and churn rates for a "Netflix for food recipes" streaming service | 
 
 # R
 
