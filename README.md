@@ -33,13 +33,11 @@ Also check out my **ggplot** projects under [Data Visualisation](#data-visualisa
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 [Scraping news headlines](https://github.com/Prachi-Ar/TOI-Headlines) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _BeautifulSoup, Pandas_ |   
+| 📰 [Scraping news headlines](https://github.com/Prachi-Ar/TOI-Headlines) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _BeautifulSoup, Pandas_ |   
 
 # Data Visualisation
 
-| Project Name | Software/program | Description | Tableau Dashboard |
+| Project Name | Software/program | Description | Graphic |
 |---|---|---|---|
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Tableau | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
-
-
-# 
+| 🎓 [The Oxbridge Gender Pay Gap](https://github.com/Prachi-Ar/TidyTuesday/edit/main/README.md#week-26-2022-the-gender-pay-gap-at-the-universities-of-cambridge-and-oxford) | R (gglot) | A project close to 🏡 home. I look at the proportion of men and women who make up the lowest and highest salary quartiles at Cambridge and Oxbridge. Unsurprisibgly, women are overepresented in the lowest quartile, while men are dominate the highest quartile | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 📺 [Most popular Netflix Shows](https://github.com/Prachi-Ar/TidyTuesday/edit/main/README.md#week-30-2022-top-10-trending-netflix-shows-across-countries) | R (ggplot) | I analyse how long various shows trended in the top 10 across different countries. Spoiler: Squid Game emerged as the undisputed winner🪆 | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
