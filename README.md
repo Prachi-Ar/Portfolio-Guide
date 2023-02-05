@@ -33,7 +33,7 @@ Also check out my **ggplot** projects under [Data Visualisation](#data-visualisa
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📰 [Scraping news headlines](https://github.com/Prachi-Ar/TOI-Headlines) |   Data Wrangling & EDA | Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | _BeautifulSoup, Pandas_ |   
+| 📰 [Scraping news headlines](https://github.com/Prachi-Ar/TOI-Headlines) |   Data Wrangling & EDA | I scraped news headlines from the Times of India that contained mentions of the two leading Prime Ministerial candidates two test for party-wise reporting bias.| _BeautifulSoup, Pandas_ |   
 
 # Data Visualisation
 
