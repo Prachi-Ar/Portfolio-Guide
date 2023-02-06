@@ -38,6 +38,6 @@ Also check out my **ggplot** projects under [Data Visualisation](#data-visualisa
 # Data Visualisation
 
 | Project Name | Software/program | Description |
-|---|---|---|---|
+|---|---|---|
 | 🎓 [The Oxbridge Gender Pay Gap](https://github.com/Prachi-Ar/TidyTuesday#week-26-2022-the-gender-pay-gap-at-the-universities-of-cambridge-and-oxford) | R (gglot) | I look at the proportion of men and women who make up the lowest and highest salary quartiles at Cambridge and Oxford. Unsurprisibgly, women are overepresented in the lowest quartile, while men dominate the top quartile| 
 | 📺 [Most popular Netflix Shows](https://github.com/Prachi-Ar/TidyTuesday#week-30-2022-top-10-trending-netflix-shows-across-countries) | R (ggplot) | I analyse how long various shows trended in the top 10 across different countries. Spoiler: Squid Game emerged as the undisputed winner🪆 | 
